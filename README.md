@@ -4,6 +4,6 @@ Open source makes the world better
 - a taichi practicer start from 2008.3 
 - contribution https://github.com/thefunpower
 
-projects
+Projects
 
 - [OA Online System](https://www.xda.com.cn?pcp=github)
