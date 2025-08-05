@@ -1,9 +1,9 @@
-Open source makes the world better
+开源软件
 
-- a php developer,start from 2008.3
-- a taichi practicer start from 2008.3 
-- contribution https://github.com/thefunpower
 
-Projects
+- [nexophp](https://github.com/nexophp/nexophp) 
+- [thefunpower](https://github.com/thefunpower/repositories)
 
-- [OA Online System](https://www.xda.com.cn?pcp=github)
+线上软件
+
+- [OA](https://www.xda.com.cn?pcp=github)
