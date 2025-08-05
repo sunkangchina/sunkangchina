@@ -1,7 +1,7 @@
 开源软件
 
-
-- [nexophp](https://github.com/nexophp/nexophp) 
+- [多用户茶饮小程序](https://github.com/openxda/liketea)
+- [nexophp开源PHP框架](https://github.com/nexophp/nexophp) 
 - [thefunpower](https://github.com/thefunpower/repositories)
 
 线上软件
